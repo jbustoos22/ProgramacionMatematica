@@ -40,7 +40,7 @@ def simplex(c, A, b):
     # Devolvemos la solución óptima (valores en la primera fila y primera columna) y la solución correspondiente en las filas restantes
 
 
-# Ejemplo de uso
+# Ejecutamos la función con los datos dados
 c = np.array([4, 5])
 A = np.array([[2, 1], [1, -3]])
 b = np.array([10, 12])
