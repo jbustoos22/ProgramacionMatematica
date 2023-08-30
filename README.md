@@ -6,6 +6,6 @@ Estaremos trabajando:
 
 Jaime Bustos - Jesús Suárez - Daniel Barbera - Gerardo Estevez.
 
-Puedes navegar entre las carpetas para poder ver los programas.
+Puedes navegar entre las carpetas para poder ver los programas..
 
 ¡Saludos!
