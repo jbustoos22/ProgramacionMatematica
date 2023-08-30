@@ -3,6 +3,7 @@
 # La panadería tiene un límite diario de 10 tazas de harina y 12 tazas de azúcar disponibles. Además, hay una demanda diaria de al menos 5 pasteles de chocolate y 4 pasteles de fresa.
 # El objetivo de la panadería es maximizar sus ganancias diarias. El pastel de chocolate se vende a $4 cada uno y el pastel de fresa se vende a $5 cada uno.
 
+
 import numpy as np
 
 def simplex(c, A, b):
