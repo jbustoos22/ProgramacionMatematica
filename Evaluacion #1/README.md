@@ -1,4 +1,4 @@
-Programación Entera:
+Programación Entera: 
 
 Supongamos que eres un comerciante que desea maximizar sus ganancias al empacar una mochila con diferentes objetos para vender. Tienes cuatro objetos, cada uno con su peso y valor. Los pesos y valores de los objetos se definen como sigue:
 •	Objeto A: peso 5 kg, valor $10
